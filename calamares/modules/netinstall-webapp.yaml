@@ -1,5 +1,5 @@
-- name: "Accessories"
-  description: "Accessories"
+- name: "BlackArch - WebApp"
+  description: "BlackArch - WebApp"
   critical: false
   hidden: false
   selected: false
